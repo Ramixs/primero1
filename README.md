@@ -1,1 +1,2 @@
-# primero1
+henry lopez
+es un archivo de aprendizaje de github
